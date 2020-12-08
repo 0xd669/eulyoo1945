@@ -1,0 +1,21 @@
+@font-face {
+	font-family: 'Eulyoo1945';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(Eulyoo1945-Regular.eot),
+	url(Eulyoo1945-Regular.woff2) format("woff2"),
+	url(Eulyoo1945-Regular.woff) format("woff"),
+	url(Eulyoo1945-Regular.ttf) format("truetype");
+}
+
+@font-face {
+	font-family: 'Eulyoo1945';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url(Eulyoo1945-SemiBold.eot),
+	url(Eulyoo1945-SemiBold.woff2) format("woff2"),
+	url(Eulyoo1945-SemiBold.woff) format("woff"),
+	url(Eulyoo1945-SemiBold.ttf) format("truetype");
+}

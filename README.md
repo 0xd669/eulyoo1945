@@ -23,7 +23,7 @@ Regular(400)와 Semi Bold(600) 굵기를 제공하며 .woff2, .woff, .eot, .ttf 
 ### CSS Rules
 
 ```css
-font-family: 'Eulyoo1945', sans-serif;
+font-family: 'Eulyoo1945', serif;
 ```
 
 ### 저작권
